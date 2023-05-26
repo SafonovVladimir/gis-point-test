@@ -17,4 +17,3 @@ def word_frequency(paragraph: list) -> None:
 
 
 frequency = word_frequency(paragraph)
-frequency
